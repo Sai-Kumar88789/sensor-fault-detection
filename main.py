@@ -78,7 +78,7 @@ async def predict_route(request:Request,file: UploadFile = File(...)):
 #         print(e)
 #         logging.exception(e)
 
-
+# changes in main.py  file
 if __name__=="__main__":
     #main()
     # set_env_variable(env_file_path)
